@@ -4,5 +4,5 @@ My name is Carlos Vinícius Tenorio, i have 22 years old and i'm software develo
 
 - 💼 Software Developer, working with tecnologies Microsoft.
 - 💬 Techs: .NET Core, .NET Framework, EF Core, SQL Server, JavaScript, Postman.
-- 🌱 Studying SOLID principles and reading about software architectures
+- 🌱 Studying SOLID principles and software architectures
 - ⚡ Also, i have experience as a software tester.
