@@ -1,6 +1,6 @@
 ### Hi 👋 welcome to my profile
 
-I'm Carlos Vinícius Tenorio, i have 23 years old and i'm software developer currently focused on backend development.
+I'm Carlos Vinícius Tenorio, i have 23 years old and i'm software developer.
 
 - 💼 Software Developer, working with tecnologies Microsoft.
 - 💬 Languages: C#, VB.NET, JavaScript, TSQL
