@@ -1,9 +1,11 @@
 ### Hi 👋 welcome to my profile
 
-I'm Carlos Vinícius Tenorio, i have 23 years old and i'm software developer.
+I'm Carlos Vinícius Tenorio, i have 24 years old and i'm software developer.
 
-- 💼 Software Developer, working with tecnologies Microsoft.
+Software Developer, working with tecnologies Microsoft.
+
 - 💬 Azure / AWS - AWS Cloud Practitioner
-- 💬 Languages: C#, VB.NET, JavaScript, TSQL / Techs: .NET, .NET Core, .NET Framework, EF Core, XUnit, SQL Server, MySQL, AngularJS.
+- 💬 Techs: .NET, .NET Core, .NET Framework, EF Core, XUnit, SQL Server, MySQL, AngularJS. / Languages: C#, VB.NET, JavaScript, TSQL
+- 💼 Messaging Services: RabbitMQ, ServiceBus, Queue Storage Account
 - 🌱 SOLID Principles, Clean Architecture, CQRS, Repository Patern
 - ⚡ Also, i have experience as a software tester e2e (Selenium), integration (Postman).
