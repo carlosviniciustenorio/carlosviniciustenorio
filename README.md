@@ -8,4 +8,4 @@ Software Developer, working with tecnologies Microsoft.
 - 💬 Techs: .NET, EF Core, Docker, XUnit, AngularJS, SQL Server, MySQL, DynamoDB.
 - 💼 Messaging Services: RabbitMQ, SNS, SQS, ServiceBus, Queue Storage Account
 - 🌱 SOLID Principles, Clean Architecture, CQRS, Design Patterns GoF
-- ⚡ Also, i have experience as a software tester e2e (Selenium), integration (Postman).
+- ⚡ Also, i have experience as a software tester e2e (Selenium), integration (Postman)
