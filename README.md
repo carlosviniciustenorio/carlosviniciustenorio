@@ -1,8 +1,8 @@
 ### Hi 👋 welcome to my profile
 
-I'm Carlos Vinícius Tenorio, i have 24 years old and i'm software engineer.
+I'm Carlos Vinícius Tenorio, i'm software engineer.
 
-Software Developer, working with tecnologies Microsoft.
+Using Microsoft techonologies and Cloud Providers to create applications
 
 - 💬 Cloud: Azure / AWS - AWS Cloud Practitioner
 - 💬 Techs: .NET, EF Core, Docker, XUnit, AngularJS, SQL Server, MySQL, DynamoDB.
