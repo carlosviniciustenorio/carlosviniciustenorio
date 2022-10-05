@@ -13,5 +13,5 @@ Using Microsoft techonologies and Cloud Providers to create applications
 # Techs
 
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />           
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" />           
 </div>
