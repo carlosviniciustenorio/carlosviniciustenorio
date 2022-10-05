@@ -9,3 +9,9 @@ Using Microsoft techonologies and Cloud Providers to create applications
 - 💼 Messaging Services: RabbitMQ, SNS, SQS, ServiceBus, Queue Storage Account
 - 🌱 SOLID Principles, Clean Architecture, CQRS, Design Patterns GoF
 - ⚡ Also, i have experience as a software tester e2e (Selenium), integration (Postman)
+
+<div>
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+           
+</div>
