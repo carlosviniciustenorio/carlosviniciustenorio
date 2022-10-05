@@ -1,6 +1,6 @@
 ### Hi 👋 welcome to my profile
 
-I'm Carlos Vinícius Tenorio, i have 24 years old and i'm software developer.
+I'm Carlos Vinícius Tenorio, i have 24 years old and i'm software engineer.
 
 Software Developer, working with tecnologies Microsoft.
 
