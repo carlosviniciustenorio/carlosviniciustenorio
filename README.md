@@ -9,7 +9,7 @@ Using Microsoft techonologies and Cloud Providers to create applications
 -  Cloud: AWS / Azure
 -  Frameworks: .NET, .NET Framework, AngularJS
 -  Databases: SQL Server, MySQL, DynamoDB, RDS.
--  Containeres: Docker, Podman
+-  Containers: Docker, Podman
 -  Messaging Services: Kafka, RabbitMQ, SNS, SQS, ServiceBus.
 -  SOLID Principles, Clean Architecture, CQRS, Design Patterns GoF
 -  ORM: EF, Dapper
