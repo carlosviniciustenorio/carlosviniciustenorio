@@ -4,11 +4,16 @@ I'm Carlos Vinícius Tenorio, i'm software engineer.
 
 Using Microsoft techonologies and Cloud Providers to create applications
 
-- 💬 Cloud: Azure / AWS - AWS Cloud Practitioner
-- 💬 Techs: .NET, EF Core, Docker, XUnit, AngularJS, SQL Server, MySQL, DynamoDB.
-- 💼 Messaging Services: RabbitMQ, SNS, SQS, ServiceBus, Queue Storage Account
-- 🌱 SOLID Principles, Clean Architecture, CQRS, Design Patterns GoF
-- ⚡ Also, i have experience as a software tester e2e (Selenium), integration (Postman)
+-  Cloud: Azure / AWS - AWS Cloud Practitioner
+-  Frameworks: .NET, .NET Framework, AngularJS
+-  Databases: SQL Server, MySQL, DynamoDB, RDS.
+-  Containeres: Docker, Podman
+-  Messaging Services: Kafka, RabbitMQ, SNS, SQS, ServiceBus.
+-  SOLID Principles, Clean Architecture, CQRS, Design Patterns GoF
+-  ORM: EF, Dapper
+-  IaC: Terraform, CloudFormation
+-  Observability: Splunk
+-  Tests: XUnit, Mock, NSubstitute, Selenium Web Driver, Postman, Insomnia.
 
 # Techs
 
