@@ -1,10 +1,12 @@
 ### Hi 👋 welcome to my profile
 
-I'm Carlos Vinícius Tenorio, i'm software engineer.
+I'm Carlos Vinícius Tenorio, i'm software engineer at Itaú Unibanco.
 
 Using Microsoft techonologies and Cloud Providers to create applications
+ 
+ 1x AWS Certified (Cloud Practitioner)
 
--  Cloud: Azure / AWS - AWS Cloud Practitioner
+-  Cloud: AWS / Azure
 -  Frameworks: .NET, .NET Framework, AngularJS
 -  Databases: SQL Server, MySQL, DynamoDB, RDS.
 -  Containeres: Docker, Podman
