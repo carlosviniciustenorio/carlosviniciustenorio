@@ -6,17 +6,6 @@ Using Microsoft techonologies and Cloud Providers to create applications
  
  1x AWS Certified (Cloud Practitioner)
 
--  Cloud: AWS / Azure
--  Frameworks: .NET, .NET Framework, AngularJS
--  Databases: SQL Server, MySQL, DynamoDB, RDS.
--  Containers: Docker, Podman
--  Messaging Services: Kafka, RabbitMQ, SNS, SQS, ServiceBus.
--  SOLID Principles, Clean Architecture, CQRS, Design Patterns GoF
--  ORM: EF, Dapper
--  IaC: Terraform, CloudFormation
--  Observability: Splunk
--  Tests: XUnit, Mock, NSubstitute, Selenium Web Driver, Postman, Insomnia.
-
 ### Development Stack
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -35,3 +24,5 @@ Using Microsoft techonologies and Cloud Providers to create applications
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pablochristian&layout=compact&langs_count=8&theme=dark)](https://github.com/pablochristian/github-readme-stats)
