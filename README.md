@@ -25,4 +25,4 @@ Using Microsoft techonologies and Cloud Providers to create applications
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pablochristian&layout=compact&langs_count=8&theme=dark)](https://github.com/pablochristian/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosviniciustenorio&layout=compact&langs_count=8&theme=dark)](https://github.com/carlosviniciustenorio/github-readme-stats)
