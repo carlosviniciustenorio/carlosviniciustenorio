@@ -1,6 +1,6 @@
 ### Hi 👋 welcome to my profile
 
-I'm Carlos Vinícius Tenorio, I've been a software engineer for over 3 years and I work at Itaú Unibanco.
+I'm Carlos Vinícius Tenorio, I've been a software engineer and work at Itaú Unibanco.
 
 Using Microsoft techonologies and Cloud Providers to create applications
  
