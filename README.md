@@ -4,7 +4,7 @@ I'm Carlos Vinícius Tenorio, I've been studying technologies since 2017 and I w
 
 Using Microsoft techonologies and Cloud Providers to create applications
  
- 1x AWS Certified (Cloud Practitioner)
+ 2x AWS Certified - Cloud Practitioner, Developer Associate (DVA-C02)
 
 ### Development Stack
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
