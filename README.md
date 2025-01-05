@@ -30,4 +30,4 @@ I'm Carlos Vinícius Tenorio, I've been studying technologies since 2017 and I w
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosviniciustenorio&layout=compact&langs_count=8&theme=dark)](https://github.com/carlosviniciustenorio/github-readme-stats) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosviniciustenorio&layout=compact&langs_count=8&theme=dark)](https://github.com/carlosviniciustenorio/github-readme-stats) 
