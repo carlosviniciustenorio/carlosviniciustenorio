@@ -2,5 +2,3 @@
 
 I'm Carlos Vinícius Tenorio, I've been studying technologies since 2017 and I have working as a staff software engineer at Itaú Unibanco.
 4x AWS Certified - Solutions Architect Professional (SAP-C02), Solutions Architect Associate (SAA-C03), Developer Associate (DVA-C02), Cloud Practitioner
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosviniciustenorio&layout=compact&langs_count=8&theme=dark)]
